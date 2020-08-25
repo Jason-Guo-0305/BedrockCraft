@@ -1,0 +1,9 @@
+item.bedrockcraft.BedrockIngot.name=Bedrock Ingot
+item.bedrockcraft.BedrockPickaxe.name=Bedrock Pickaxe
+item.bedrockcraft.BedrockAxe.name=Bedrock Axe
+item.bedrockcraft.BedrockShovel.name=Bedrock Shovel
+item.bedrockcraft.BedrockHoe.name=Bedrock Hoe
+item.bedrockcraft.BedrockSword.name=Bedrock Sword
+
+itemGroup.bedrockcraft=BedrockCraft
+itemGroup.bedrockcraftTool=BedrockCraft Equipment

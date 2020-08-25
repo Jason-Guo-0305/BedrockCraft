@@ -1,0 +1,10 @@
+[
+{
+  "modid": "bedrockcraft",
+  "name": "BedrockCraft",
+  "description": "基岩工艺",
+  "version": "${version}",
+  "mcversion":"${mcversion}",
+  "authorList":["Frank__Wang"]
+}
+]

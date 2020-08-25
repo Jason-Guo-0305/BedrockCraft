@@ -1,0 +1,9 @@
+item.bedrockcraft.BedrockIngot.name=基岩锭
+item.bedrockcraft.BedrockPickaxe.name=基岩镐
+item.bedrockcraft.BedrockAxe.name=基岩斧
+item.bedrockcraft.BedrockShovel.name=基岩锹
+item.bedrockcraft.BedrockHoe.name=基岩锄
+item.bedrockcraft.BedrockSword.name=基岩剑
+
+itemGroup.bedrockcraft=基岩工艺
+itemGroup.bedrockcraftTool=基岩工艺·装备
